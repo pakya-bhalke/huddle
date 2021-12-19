@@ -94,6 +94,7 @@ body {
         padding: 100px 0 50px 100px;
     }
     .desktop .image {
+        padding-top:100px;
         size: inherit;
         width: 100%;
         height: auto;
